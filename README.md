@@ -51,7 +51,7 @@ For example - When the customer will view the menu, so they will be able to see 
 Clone the project
 
 ```bash
-  https://github.com/Rahul-IITBH/FoodAlicious.git
+  https://github.com/Uplab-iitbh/FoodAlicious.git
 ```
 
 Activate Django Environment
